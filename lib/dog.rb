@@ -4,7 +4,7 @@ class Dog
   end 
   
   def name 
-    @this_dogs_name
+    @this_dogs_name # here the instance variable can be called in a different method
   end 
 end 
 
